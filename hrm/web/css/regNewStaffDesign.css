@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+#insertpage{
+	margin-top: 85px;	
+}
+
+
+#staff_insert_head{
+	font-family: Arial;
+	font-size: 20px;
+	margin-top: 20px;
+	padding-left: 230px;
+}
+	
+.jumin{
+	width:118px;
+}
+
+.input{
+	width: 250px;
+}
+	
+.siTable{
+	margin-top: 25px;
+	padding-left: 230px;
+}
+	
+#newstafftable tr{
+	height: 40px;
+}
+	
+#enrollbutton{
+	padding-top:20px;
+	padding-left:1025px;
+}
+	
+#dd{
+	width: 70px;
+}
+	
+#newstafftable label{
+	width: 200px;
+}

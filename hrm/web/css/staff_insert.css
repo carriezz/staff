@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+.regNewStaff{
+	height: 100%;
+	width: 60%;
+	font-size: 13px;
+	position: absolute; top: 100px; left: 280px;
+}
+
+.regNewStaff p{
+	font-size: 14px;
+	font-weight: bold;
+	color: #6E6E6E;
+}
+
+.regNewStaff th{
+	text-align: left;
+	width: 250px;
+	height: 30px;	
+}
+
+.regNewStaff td{
+	width: 600px;
+}
+
+.personnalInfo{
+	padding-top: 10px;
+}

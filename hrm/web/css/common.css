@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+h3{
+	color: #175188;
+}
+
+.gross_div{
+	position: absolute; top: 100px; left: 300px;		
+}
